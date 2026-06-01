@@ -1,2 +1,2 @@
 # Homelab
-Some pictures and descriptions about my homelab
+Some pictures and descriptions of my homelab
